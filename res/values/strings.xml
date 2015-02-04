@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="app_name">Attack Helicopter</string>
+	<string name="new_game">New game</string>
+	<string name="instructions">Shoot down enemy helicopters with machine gun and destroy enemy tanks with bombs. Tilt the phone to control up/down and left/right movements. To turn helicopter around, touch screen in the opposite direction.
+    </string>
+	<string name="menu_start">Start</string>
+	<string name="menu_stop">Stop</string>
+	<string name="menu_pause">Pause</string>
+	<string name="menu_resume">Resume</string>
+	<string name="menu_easy">Easy</string>
+	<string name="menu_medium">Medium</string>
+	<string name="menu_hard">Hard</string>
+	<string name="menu_least_sensitive">Least Tilt Sensitivity</string>
+	<string name="menu_less_sensitive">Less Tilt Sensitivity</string>
+	<string name="menu_normal_sensitive">Normal Tilt Sensitivity</string>
+	<string name="menu_more_sensitive">More Tilt Sensitivity</string>
+	<string name="menu_most_sensitive">Most Tilt Sensitivity</string>
+
+	<string name="settings_vibrate">Vibration</string>
+	<string name="settings_vibrate_summary">vibrate when bad stuff happens</string>
+
+	<string name="settings_difficulty">Difficulty</string>
+	<string name="settings_difficulty_summary">Choose how many lives to start with</string>
+
+	<string name="settings_five_lives">5 lives</string>
+	<string name="settings_four_lives">4 lives</string>
+	<string name="settings_three_lives">3 lives</string>
+
+	<string name="mode_ready">Attack Helicopter\nPress Start Button To Play</string>
+	<string name="mode_pause">Paused\nPress Resume Button To Resume</string>
+	<string name="mode_lose">Game Over\nPress Start Button To Play</string>
+	<string name="mode_win_prefix">You Win!\n</string>
+	<string name="mode_win_suffix">Press Start Button to Play Again</string>
+
+	<string name="message_stopped">Stopped</string>
+	<string name="message_off_pad">Off Landing Pad</string>
+	<string name="message_too_fast">Too Fast</string>
+	<string name="message_bad_angle">Bad Angle</string>
+
+	<string name="layout_text_text"></string>
+	<string name="left_button">Left</string>
+	<string name="right_button">Right</string>
+	<string name="up_button">Up</string>
+	<string name="fire_button">Fire  </string>
+
+	<string name="score">
+		Score:
+		<xliff:g id="number">%d</xliff:g>
+	</string>
+	<string name="level">
+		Level
+		<xliff:g id="number">%d</xliff:g>
+	</string>
+
+	<string name="one_life_left">1 life left</string>
+	<string name="lives_left">
+		<xliff:g id="number">%d</xliff:g>
+		lives
+	</string>
+
+	<string name="your_score">Congratulations! Please submit your score.</string>
+	<string name="submit_score">Submit Score</string>
+	<string name="key_ahighscore">d938fae5-68f6-4379-a3b5-58516faf0c48</string>
+</resources>

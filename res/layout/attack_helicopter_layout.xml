@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:gravity="bottom">
+
+
+	<RelativeLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+
+		<com.lam.android.attackhelicopter2.AttackHelicopterView
+			android:id="@+id/helicopter_view"
+			android:layout_width="fill_parent"
+			android:layout_height="250dp" />
+
+		<TextView
+			android:id="@+id/text"
+			android:text="@string/layout_text_text"
+			android:visibility="visible"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true"
+			android:gravity="center_horizontal"
+			android:textColor="#88ffffff"
+			android:textSize="24sp" />
+
+	</RelativeLayout>
+
+	<LinearLayout
+		android:id="@+id/LinearLayout01"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+
+		<TextView
+			android:id="@+id/levelInfo"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentLeft="true"
+			android:padding="4px"
+			android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<TextView
+			android:id="@+id/score"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_centerInParent="true"
+			android:padding="4px"
+			android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<TextView
+			android:id="@+id/lives_left"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:padding="4px"
+			android:textAppearance="?android:attr/textAppearanceMedium" />
+	
+		<Button
+			android:id="@+id/bomb_button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="16px"
+			android:text="    Bomb    "></Button>
+			
+		<Button
+			android:id="@+id/fire_button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="16px"
+			android:text="     Fire Gun    "></Button>
+	</LinearLayout>
+</LinearLayout>
+

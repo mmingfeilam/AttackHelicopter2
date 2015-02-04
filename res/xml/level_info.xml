@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<level id="0" numBogeys="0" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="false" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="true" fighterBitmap="0"/>
+		
+	<level id="1" numBogeys="0" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="false" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="true" fighterBitmap="0"/>
+		
+	<level id="2" numBogeys="0" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="false" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="true" fighterBitmap="0"/>
+		
+	<level id="3" numBogeys="0" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="true" fighterBitmap="0"/>
+	
+	<level id="4" numBogeys="0" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="0" isBomberFiring="false" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+	
+	<level id="5" numBogeys="0" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="0" isBomberFiring="false" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="6" numBogeys="1" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="false" tankBitmap="1"
+		numLaunchers="0" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="0" isBomberFiring="false" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="7" numBogeys="2" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="false" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="0" isBomberFiring="false" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="8" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="false" tankBitmap="1"
+		numLaunchers="0" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="0" isBomberFiring="false" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="9" numBogeys="4" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="false" tankBitmap="1"
+		numLaunchers="0" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="1" isBomberFiring="false" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+	
+	<level id="10" numBogeys="5" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="11" numBogeys="5" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="12" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="13" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="1"/>
+	
+	<level id="14" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="false" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="1"
+		numFighters="2" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="15" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="0" isTankFiring="true" tankBitmap="0"
+		numLaunchers="2" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="1"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="16" numBogeys="4" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="false" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="1"
+		numFighters="0" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="17" numBogeys="2" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="0" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="1"
+		numFighters="1" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="18" numBogeys="2" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="false" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="1" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="19" numBogeys="4" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="false" bomberBitmap="0"
+		numFighters="1" isFighterFiring="false" fighterBitmap="0"/>
+		
+	<level id="20" numBogeys="1" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="1" isFighterFiring="true" fighterBitmap="0"/>
+		
+	<level id="21" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="0" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="true" fighterBitmap="0"/>
+	
+	<level id="22" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="0" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="2" isFighterFiring="true" fighterBitmap="0"/>
+		
+	<level id="23" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="2" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="1" isFighterFiring="true" fighterBitmap="0"/>
+		
+	<level id="24" numBogeys="1" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="false" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="1" isFighterFiring="true" fighterBitmap="1"/>
+		
+	<level id="25" numBogeys="0" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="false" tankBitmap="0"
+		numLaunchers="2" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="false" fighterBitmap="1"/>
+		
+	<level id="26" numBogeys="2" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="0" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="1" isFighterFiring="true" fighterBitmap="1"/>
+		
+	<level id="27" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="0" isTankFiring="true" tankBitmap="0"
+		numLaunchers="2" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="true" fighterBitmap="1"/>
+	
+	<level id="28" numBogeys="1" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="2" isFighterFiring="true" fighterBitmap="1"/>
+	
+	<level id="29" numBogeys="4" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="0" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="3" isFighterFiring="true" fighterBitmap="1"/>
+	
+	<level id="30" numBogeys="3" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="0" isBomberFiring="true" bomberBitmap="0"
+		numFighters="2" isFighterFiring="true" fighterBitmap="1"/>
+		
+	<level id="31" numBogeys="2" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="true" tankBitmap="0"
+		numLaunchers="0" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="4" isFighterFiring="true" fighterBitmap="1"/>
+		
+	<level id="31" numBogeys="2" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="3" isTankFiring="true" tankBitmap="0"
+		numLaunchers="1" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="4" isFighterFiring="true" fighterBitmap="1"/>
+		
+	<level id="31" numBogeys="2" isBogeyFiring="true" bogeyBitmap="0" 
+		numTanks="1" isTankFiring="true" tankBitmap="0"
+		numLaunchers="2" isLauncherFiring="true" launcherBitmap="0"
+		numBombers="1" isBomberFiring="true" bomberBitmap="0"
+		numFighters="0" isFighterFiring="true" fighterBitmap="1"/>
+		
+	 
+</resources>
